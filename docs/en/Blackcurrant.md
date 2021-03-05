@@ -11,3 +11,7 @@ See also: [Redcurrant](Redcurrant.md)
 ## todo
 
 ... import .de version available online.
+
+# credits / sources
+
+- German original version: Prof. Dr. sc. agr. Ernst Greulich [Source](http://profgreuli.ch/veroeffentlichungen/F51_Prof._Greulich_zur_Schwarzen_Johannisbeere.PDF)
